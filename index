@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Feather Coding | Home</title>
+    <link rel="shortcut icon" type="images/x-icon" href="icons.png">
   </head>
   <body>
     <input type="text" placeholder="this is a text">
