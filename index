@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Feather Coding | Home</title>
+  </head>
+  <body>
+    <input type="text" placeholder="this is a text">
+  </body>
+</html>
